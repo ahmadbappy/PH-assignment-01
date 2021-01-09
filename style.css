@@ -1,0 +1,106 @@
+* {
+    font-family: 'Raleway', sans-serif;
+}
+
+ul {
+    list-style-type: square;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: right;
+    display: inline;
+}
+
+li a {
+    margin: 20px;
+    padding: 15px;
+    text-align: right;
+    text-decoration: none;
+    color: black;
+}
+
+h1 {
+    font-size: 50px;
+    color: olivedrab;
+}
+
+p {
+    color: dimgrey;
+}
+
+.orangeHighlight {
+    color: orange;
+}
+
+.halfWidth {
+    width: 35%;
+    float: left;
+    margin-left: 10%;
+    padding-left: 2%;
+}
+
+.halfWidth img {
+    padding-top: 20px;
+    height: 80%;
+    width: 60%;
+    margin-left: 8%;
+}
+
+section {
+    height: 500px;
+    padding-bottom: 150px;
+}
+
+.linkButton {
+    text-decoration: none;
+    background-image: linear-gradient(lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+.projects {
+    text-align: center;
+}
+
+.boxModel {
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.boxModel img {
+    padding-top: 20px;
+    height: 65%;
+    width: 45%;
+}
+
+.forthSection {
+    background-image: url("shapes/Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-size: 1000px;
+    margin-left: 17%;
+}
+
+.huff {
+    float: right;
+    margin-right: 30%;
+    margin-top: 7%;
+}
+
+.workInquiry {
+    color: black;
+    margin: 30px;
+    margin-top: 7%;
+    padding: 5px;
+    float: left;
+}
+
+footer p {
+    text-align: center;
+    font-size: 10px;
+}
